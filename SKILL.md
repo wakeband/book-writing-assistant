@@ -1,6 +1,10 @@
 ---
 name: book-writing-assistant
+version: 1.0.0
 description: A complete writing companion for book authors covering both fiction and nonfiction. Tracks characters, plot threads, chapter outlines, research, world-building, and continuity. Also brainstorms, drafts passages, and helps with writer's block. Use this skill whenever someone mentions writing a book, novel, memoir, story, chapter, manuscript, character development, plot outline, world-building, or any long-form writing project. Trigger on casual phrases too -- "I'm working on my book," "I need to flesh out this character," "help me outline chapter 5," "what did I say about the setting in chapter 2," or "I'm stuck on this scene" should all activate this skill.
+metadata:
+  openclaw:
+    emoji: 📖
 ---
 
 # Book Writing Assistant
